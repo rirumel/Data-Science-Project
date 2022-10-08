@@ -1,0 +1,2 @@
+# Data-Science-Project
+As a part of the Data Science course, I carried out an EDA as my project based upon the Corona Virus Dataset given by the staff of the course. Unfortunately the dataset lacked a lot of important information and was not properly populated, However, I tried to visualize the data and identify any significant trend or information by plotting Heatmap, Pie chart, Bar Graph, Correlation Graph etc. 
